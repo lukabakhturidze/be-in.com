@@ -399,6 +399,7 @@ main{
     align-items: center;
     column-gap: 11px;
     padding: 10px 0;
+    cursor: pointer;
 }
 .my-contacts-bottom-li button{
     padding: 8px 11px;
