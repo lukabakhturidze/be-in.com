@@ -1,0 +1,16 @@
+@font-face{
+    font-family:'work-sans-400';
+    src: url("../fonts/WorkSans-Regular.ttf");
+}
+@font-face{
+    font-family:'work-sans-500';
+    src: url("../fonts/WorkSans-Medium.ttf");
+}
+@font-face{
+    font-family:'work-sans-600';
+    src: url("../fonts/WorkSans-SemiBold.ttf");
+}
+@font-face{
+    font-family:'futura-500';
+    src: url("../fonts/futura-medium-bt.ttf");
+}
